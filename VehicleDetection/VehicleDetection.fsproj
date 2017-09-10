@@ -80,6 +80,7 @@
     <None Include="bin32\libiomp5md.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Include="TestImagClass.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Accord">
